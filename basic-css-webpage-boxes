@@ -1,0 +1,67 @@
+<html>
+
+	<head>
+
+		<title> Webpage with Style</title>
+	
+		<style type="text/css">
+		
+		#red-box {
+		
+			background-color: red;
+			border: 10px black solid;
+		}
+		
+		#blue-box {
+		
+			background-color: blue;
+			border-radius: 50%;			
+		
+		}
+		
+		
+		
+		#green-box {
+		
+			background-color: green;
+			border: 10px dotted;
+			border-color: orange beige pink gold;
+		
+		}
+		
+		.square {
+		
+			width: 200px;
+			height: 200px;
+			margin: 40;
+			float: left;
+				
+		}
+		
+		</style>
+	
+	</head>
+	
+	<body>
+	
+	
+	<div id="red-box" class="square">
+	
+				
+	</div>
+		
+	
+	<div id="blue-box" class="square">
+	
+		
+	
+	</div>
+	
+		<div id="green-box" class="square">	
+		
+
+	</div>
+
+	</body>
+	
+</html>
